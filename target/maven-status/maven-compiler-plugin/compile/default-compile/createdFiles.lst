@@ -1,0 +1,12 @@
+com\mycompany\citychurch\JakartaRestConfiguration.class
+com\mycompany\citychurch\resources\JakartaEE10Resource.class
+com\citychurch\servlet\LoginServlet.class
+com\citychurch\storage\UserStore.class
+com\citychurch\model\Notification.class
+com\citychurch\servlet\NotificationServlet.class
+com\citychurch\jms\NotificationConsumer.class
+com\citychurch\websocket\NotificationWebSocket.class
+com\citychurch\servlet\RegistrationServlet.class
+com\citychurch\storage\NotificationStore.class
+com\citychurch\jms\NotificationProducer.class
+com\citychurch\model\User.class
